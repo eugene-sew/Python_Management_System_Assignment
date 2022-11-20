@@ -1,0 +1,4 @@
+001,Eugene,Sewor,BT_ICT,400,4.5
+002,Emmanuel,John,BT_CS,200,3.5
+003,Rina,Tsey,BT_ICT,200,4.0
+004,Ophelia,Sewor,BT_CS,100,4.2
