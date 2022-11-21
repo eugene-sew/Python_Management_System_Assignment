@@ -39,3 +39,12 @@ import students.sql and change the user credentials in the DBCon.py class
 ![login image](./images/reports.png)
 
 
+## Group Members
+ - Klidza Richmond- 0320080210
+ - Salem Mercy Glory- 0320080142
+ - Eugene Sewor Emmanuel - 0320080070
+ - Feyi Rebecca Ernestina - 0320080080
+ - Grace Ansah-Addo - 0320080111
+ - Nuhu Manav
+ - Tuglo Emmanuella - 0320080242
+ - Elizabeth Nutor - 0320080167
